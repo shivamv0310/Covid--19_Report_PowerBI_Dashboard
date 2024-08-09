@@ -4,6 +4,12 @@
 
 This project is a detailed and interactive dashboard designed to monitor the global impact of the COVID-19 pandemic. It provides an extensive overview of the pandemic through various visualizations, including total realized cases, confirmed cases, deaths, recovered cases, vaccination progress, and more. The dashboard is equipped with several graphs, charts, and maps that give a comprehensive view of the data across different regions over time.
 
+## Data Source
+
+Here is the link to the website where I downloaded the data source:
+
+[Our World in Data - COVID Deaths](https://ourworldindata.org/covid-deaths)
+
 ### Dashboard Overview
 
 - *Total Realized:* 1.68T
